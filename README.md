@@ -1,6 +1,6 @@
 ### Olá, sou o Germano! 👋
 
-Sou Analista de TI e estudante de Engenharia de Computação e CST Em Cibersecurity. Meu foco é desenvolver ferramentas de segurança **Open Source** que unam eficiência técnica com uma experiência de usuário (UX) superior.
+Sou Analista de TI, estudante de Engenharia de Computação e CST em Cibersecurity. Meu foco é desenvolver ferramentas de segurança **Open Source** que unam eficiência técnica com uma experiência de usuário (UX) superior.
 
 ---
 
@@ -9,10 +9,12 @@ Sou Analista de TI e estudante de Engenharia de Computação e CST Em Cibersecur
 #### 👁️ **[The Apex](https://github.com/3x0t3ch/TheApex-Network)**
 > *Open Source Threat Intelligence Platform*
 
-<img width="1903" height="873" alt="image" src="https://github.com/user-attachments/assets/0c31db6f-f320-4ee1-af31-b0aaaa0db543" />
+<div align="center">
+  <img width="100%" alt="The Apex Interface" src="https://github.com/user-attachments/assets/0c31db6f-f320-4ee1-af31-b0aaaa0db543" />
+</div>
+<br>
 
-
-Desenvolvo o **The Apex**, uma aplicação web open-source projetada para facilitar e acelerar a investigação de ameaças. O objetivo é democratizar o acesso a ferramentas avançadas de análise.
+Desenvolvo o **The Apex**, uma aplicação web open-source projetada para facilitar e acelerar a investigação de ameaças. O objetivo é democratizar o acesso a ferramentas avançadas de análise. Esta versão [TIER 0] CORE serve como a fundação open source do projeto, projetada para pesquisadores, estudantes e auditores de segurança.
 
 * **O que ele faz:** Investiga arquivos e URLs suspeitos de forma automatizada.
 * **Como funciona:** Combina **análise estática local** com feeds de **inteligência de ameaças** externos em uma interface unificada.
