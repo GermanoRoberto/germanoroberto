@@ -1,20 +1,20 @@
 ### Olá, sou o Germano! 👋
 
-Sou Analista de TI, estudante de Engenharia de Computação e CST em Cibersecurity. Meu foco é desenvolver ferramentas de segurança **Open Source** que unam eficiência técnica com uma experiência de usuário (UX) superior.
+Sou Analista de TI, estudante de Engenharia de Computação e CST em Cibersegurança. Meu foco é migrar e me especializar na área de Cybersecurity, desenvolvendo ferramentas de segurança **Open Source** que unam eficiência técnica com uma experiência de usuário (UX) superior.
 
 ---
 
 ### 🚀 Projeto Principal
 
-#### 👁️ **[The Apex](https://github.com/3x0t3ch/TheApex-Network)**
-> *Open Source Threat Intelligence Platform*
+#### 👁️ **[Vext Hub](https://github.com/3x0t3ch/TheApex-Network)**
+> *Open Source Threat Intelligence Platform | Powered by Vext Solutions*
 
 <div align="center">
-  <img width="100%" alt="The Apex Interface" src="https://github.com/user-attachments/assets/0c31db6f-f320-4ee1-af31-b0aaaa0db543" />
+  <img width="100%" alt="Vext Hub Interface" src="https://github.com/user-attachments/assets/0c31db6f-f320-4ee1-af31-b0aaaa0db543" />
 </div>
 <br>
 
-Desenvolvo o **The Apex**, uma aplicação web open-source projetada para facilitar e acelerar a investigação de ameaças. O objetivo é democratizar o acesso a ferramentas avançadas de análise. Esta versão [TIER 0] CORE serve como a fundação open source do projeto, projetada para pesquisadores, estudantes e auditores de segurança.
+Desenvolvo o **Vext Hub** (anteriormente conhecido como The Apex), uma aplicação web open-source projetada para facilitar e acelerar a investigação de ameaças. O objetivo é democratizar o acesso a ferramentas avançadas de análise. Esta versão [TIER 0] CORE serve como a fundação open source do projeto, projetada para pesquisadores, estudantes e auditores de segurança.
 
 * **O que ele faz:** Investiga arquivos e URLs suspeitos de forma automatizada.
 * **Como funciona:** Combina **análise estática local** com feeds de **inteligência de ameaças** externos em uma interface unificada.
@@ -33,7 +33,7 @@ Desenvolvo o **The Apex**, uma aplicação web open-source projetada para facili
 
 ### 🧠 Outros Interesses
 
-* **Prompt Engineering:** Pesquisa e desenvolvimento de personas complexas para IA (ex: *Pentágono Elite* para análise jurídica e refatoração).
+* **Prompt Engineering:** Pesquisa e desenvolvimento de personas complexas de IA para auditoria de código e arquitetura.
 * **Música:** Baixista na banda **Ajogun** (Doom/Experimental).
 * **Cultura:** Fã de Evangelion, Cyberpunk e Mecha.
 
