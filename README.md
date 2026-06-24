@@ -1,6 +1,6 @@
 ### Olá, sou o Germano! 👋
 
-[Inference] Sou Analista de TI com sólida experiência generalista em infraestrutura e operações de tecnologia, atualmente focado na especialização e transição definitiva para a área de **Cybersecurity**. Sou estudante de Engenharia de Computação e CST em Cibersegurança. 
+Sou Analista de TI com sólida experiência generalista em infraestrutura e operações de tecnologia, atualmente focado na especialização e transição definitiva para a área de **Cybersecurity**. Sou estudante de Engenharia de Computação e CST em Cibersegurança. 
 
 Minha filosofia de desenvolvimento é unir engenharia de segurança defensiva com ferramentas **Open Source** de alta performance e experiência de usuário (UX) intuitiva.
 
@@ -16,7 +16,7 @@ Minha filosofia de desenvolvimento é unir engenharia de segurança defensiva co
 </div>
 <br>
 
-[Inference] Desenvolvo o **Vext Hub** (anteriormente conhecido como The Apex), uma aplicação web voltada para o mercado internacional, projetada para automatizar, facilitar e acelerar a investigação de ameaças. Esta versão [TIER 0] CORE serve como fundação open-source para pesquisadores, estudantes e auditores de segurança.
+Desenvolvo o **Vext Hub** (anteriormente conhecido como The Apex), uma aplicação web voltada para o mercado internacional, projetada para automatizar, facilitar e acelerar a investigação de ameaças. Esta versão [TIER 0] CORE serve como fundação open-source para pesquisadores, estudantes e auditores de segurança.
 
 * **O que ele faz:** Automatiza o escaneamento e a investigação de arquivos e URLs suspeitas.
 * **Como funciona:** Combina mecanismos de **análise estática local** com feeds globais de **inteligência de ameaças** (Threat Intel) em um dashboard unificado.
@@ -26,7 +26,7 @@ Minha filosofia de desenvolvimento é unir engenharia de segurança defensiva co
 
 ### 💼 Experiência & Atuação Prática (Cybersecurity Focus)
 
-[Unverified] [Inference] Embora minha atuação de mercado cubra todo o espectro de TI corporativa, tenho direcionado meus projetos recentes para a segurança da informação e engenharia social:
+Embora minha atuação de mercado cubra todo o espectro de TI corporativa, tenho direcionado meus projetos recentes para a segurança da informação e engenharia social:
 * **Conscientização & Defesa:** Concepção, planejamento e execução de treinamentos internos e webinars focados em **Engenharia Social e Phishing** para mais de 100 colaboradores.
 * **SecOps & Monitorização:** Implementação e auditoria de políticas de segurança em endpoints (Cisco Endpoint Security), análise de tráfego e monitorização defensiva de redes.
 
